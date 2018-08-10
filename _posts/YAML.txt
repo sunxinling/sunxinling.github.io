@@ -1,0 +1,8 @@
+---
+layout: post
+title: "title"
+img: imgname.jpg # Add image post (optional)
+date: 2000-01-01 12:00:00 +0800
+description: Description # Add post description (optional)
+tag: [A, B, C]
+---
