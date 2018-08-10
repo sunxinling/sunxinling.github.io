@@ -1,6 +1,6 @@
-logo: # add logo name
-title: jerry-sun的个人博客
-description: 关于一个学渣学习算法的那些事
+logo: 行有道 # add logo name
+title: Jerry-Sun的个人博客
+description: 关于一个过客留下的些许色彩
 #  this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
@@ -11,13 +11,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: jerry-sun的个人博客 # add banner title
-banner-desc: 关于一个学渣学习算法的那些事 # add banner description
+banner-title: Jerry-Sun的个人博客 # add banner title
+banner-desc: 关于一个过客留下的些许色彩 # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: jerry # your name
-about-author: a lazy student # about author
+author-name: Jerry # your name
+about-author: A Lazy Student # about author
 email: sxl1273265422@126.com # your email
 phone: you gress # your pnone number
 website: https://sunxinling.github.io # you website
